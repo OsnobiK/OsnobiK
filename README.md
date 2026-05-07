@@ -1,5 +1,6 @@
 # Hey, I'm Caleb 👋
 
+> 🇧🇷 Versão em português disponível [aqui](./README-ptbr.md)
 > *Building things that actually do something.*
 
 I'm a Systems Analysis & Development student based in Brazil 🇧🇷, currently working on projects that live at the intersection of automation, AI, and real-world utility. I like solving problems that matter — even if they start as a personal itch.
