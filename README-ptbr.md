@@ -20,7 +20,7 @@ String[] stack = { "Java", "PHP", "MySQL", "Python" };
 
 ## 🚀 O que estou construindo
 
-**Jarvis** — Assistente controlado por voz para PC e mobile  
+**Rigel** — Assistente controlado por voz para PC e mobile  
 Controle seu sistema, casa inteligente e rotina diária completamente por voz. Integração com LLMs para conversas naturais.
 
 ---
